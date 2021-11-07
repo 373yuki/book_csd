@@ -3,7 +3,7 @@
 『制御系設計論』のサポート
 
 ## Pythonコード
-書籍の中に記載したPythonコードや補足のPythonコードです．
+書籍の中の図を作成したPythonコードや補足のPythonコードです．
 各章ごとにファイルを分けています．
 
 Jupyter Notebook 形式（ipynb形式）となっていますので，ダウンロード後，JupyterNotebook上にアップロードして利用してください．
