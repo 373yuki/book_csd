@@ -18,9 +18,5 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 - Slycot 0.4.0
 - Control 0.9.0 
 
-## MATLABコード
-書籍の中に記載したPythonコードや補足のMATLABコードです．PythonとMATLABの親和性の良さがわかります．
-ライブエディタ形式（mlx形式）となっています．plot_setとbodeplot_setも同じフォルダに入れてください．
-
 ## 書籍のサポートページ
 https://y373.sakura.ne.jp/minami/csd
